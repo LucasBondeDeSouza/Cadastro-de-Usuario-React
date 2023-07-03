@@ -1,11 +1,9 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Lucas Bonde",
-        "email": "lucasbonde@gmail.com"
-    }, {
-        "id": 2,
-        "name": "Maria Julia da Silva",
-        "email": "mjds@empresa.com"
-    }]
+  "users": [
+    {
+      "name": "Novo Usuário 2",
+      "email": "novousuario123@gmail.com",
+      "id": 1
+    }
+  ]
 }
